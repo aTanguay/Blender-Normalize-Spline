@@ -7,3 +7,7 @@ To use, install and enable the python file, select a spline at the object level,
 The addon will create a copy of the spline in place, normalizing the points. You will get options for more divisions.
 Lower numbers will get you more definition.
 
+If you see below, the spline on the right has been 'normalized' so that it's evenly diced up. 
+
+![Normalized](Normalized.png)
+
