@@ -67,7 +67,7 @@ class OBJECT_OT_normalized_spline(bpy.types.Operator):
         name="Length Divider",
         description="Determines the spacing of the new points",
         default=10.0,
-        min=0.1
+        min=0.001
     )
 
     def execute(self, context):
